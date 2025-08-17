@@ -17,7 +17,7 @@ The goal of this assignment is to demonstrate scalable component design, modern 
 
 Clone the repository:  
 ```bash
-git clone https://github.com/your-username/react-ui-assignment.git
+git clone https://github.com/santoshfaltankar7/react-ui-assignment.git
 cd react-ui-assignment
 
 ---

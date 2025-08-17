@@ -1,9 +1,9 @@
 import DataTable from "./DataTable";
 
 const sampleData = [
-  { name: "John Doe", age: 28, role: "Developer" },
-  { name: "Jane Smith", age: 34, role: "Designer" },
-  { name: "Alice Brown", age: 22, role: "Intern" },
+  { name: "Santosh Faltankar", age: 28, role: "Developer" },
+  { name: "pankaj Umale", age: 34, role: "Front End Developer" },
+  { name: "vishal Nigam", age: 22, role: "Intern" },
 ];
 
 const sampleColumns = [
