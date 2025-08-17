@@ -21,17 +21,10 @@ git clone https://github.com/santoshfaltankar7/react-ui-assignment.git
 cd react-ui-assignment
 
 ---
+
 ## 📦 Install Dependencies
 npm install
 npx storybook@latest init
 npm run dev
 npm run storybook
 npm run build
-
-## 📸 Screenshots
-
-### InputField Component
-![InputField Screenshot](./src/screenshots/inputField.png)
-
-### DataTable Component
-![DataTable Screenshot](./src/screenshots/datatable.png)
